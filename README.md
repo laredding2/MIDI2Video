@@ -1,4 +1,4 @@
-# midi2video
+# MIDI2Video
 
 Convert MIDI files into high-quality Synthesia-style piano tutorial videos using Python and FFmpeg.
 
